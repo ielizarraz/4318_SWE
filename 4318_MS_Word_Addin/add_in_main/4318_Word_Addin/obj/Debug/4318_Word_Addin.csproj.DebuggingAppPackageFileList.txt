@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\4318_Word_AddinManifest.xml
+C:\Users\guild\source\repos\4318_Word_Addin\4318_Word_Addin\bin\Debug\4318_Word_Addin.debugapp
