@@ -1,0 +1,1 @@
+It is possible that translating this process to other languages would be very seemless as the only worries should theoretically be ascii conversions. Therefore, if we were to use other languages and these characters were saved in a library we had available to us, the other languages should work fine as code is universal.
